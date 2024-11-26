@@ -19,7 +19,7 @@ public class Area_Testing {
         //Math Calculations
         double area = width * height;
 
-        System.out.println("The Area of your chosen shape is: " + area);
+        System.out.println("The Area of your chosen shape is : " + area);
 
 
 
